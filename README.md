@@ -90,22 +90,20 @@ IDS-Network-Intrusion-Detection/
 
 ## 🚀 Installation et exécution
 
-### 1. Cloner le repository
-
 ```bash
+# 1. Cloner le repository
 git clone https://github.com/OumaimaELBAHLOULI/IDS-ML.git
 cd IDS-ML
 
-2. Installer les dépendances
+# 2. Installer les dépendances
 pip install -r requirements.txt
 
-3. Télécharger le dataset
-Télécharger UNSW-NB15 depuis le site officiel et placer les fichiers dans le dossier data/
+# 3. Télécharger le dataset
+# Télécharger UNSW-NB15 depuis le site officiel
+# puis placer les fichiers dans le dossier data/
 
-4. Lancer le notebook
+# 4. Lancer le notebook
 jupyter notebook intrusion_detection.ipynb
-
-
 ## 👤 Auteur
 
 **Oumaima ELBAHLOULI**
