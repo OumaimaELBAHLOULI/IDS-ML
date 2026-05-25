@@ -103,10 +103,13 @@ pip install -r requirements.txt
 # puis placer les fichiers dans le dossier data/
 
 # 4. Lancer le notebook
-jupyter notebook intrusion_detection.ipynb
+jupyter notebook notebook.ipynb
+```
 ## 👤 Auteur
 
 **Oumaima ELBAHLOULI**
+
+[LinkedIn](https://linkedin.com/in/oumaima-elbahlouli) | [GitHub](https://github.com/OumaimaELBAHLOULI)
 
 [LinkedIn](https://linkedin.com/in/oumaima-elbahlouli) | [GitHub](https://github.com/OumaimaELBAHLOULI)
 ```
